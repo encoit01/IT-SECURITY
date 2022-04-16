@@ -1,0 +1,154 @@
+body {
+    background-color: #7f90a9;
+    max-width: 800px;
+    margin: auto;
+    font-family: Arial;
+    color: black;
+}
+.display
+{
+    display: flex;
+    width: 100%;
+}
+
+.display2 {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.flexChild {
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.configFlex {
+    display: inline-flex;
+    justify-content: space-between;
+    padding-top: 0.8em;
+    padding-left: 0.3em;
+}
+
+
+.divProp {
+    width: 9.7em;
+    text-align: center;
+    border: 2px solid black;
+    height: 3em;
+    line-height: 3em;
+    background-color: #bdbdbd
+}
+
+.divFail {
+    width: 9.7em;
+    height: 3em;
+    text-align: center;
+    border: 2px solid black;
+    line-height: 3em;
+    background-color: #b76666;
+}
+
+.durch {
+    width: 100%;
+    text-align: center;
+    margin: 8px 0;
+}
+
+.field {
+    border-radius: 1em;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: none;
+    margin: 8px 0;
+}
+
+.button {
+    background-color: #d6d6d6;
+    border-radius: 1em;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: none;
+    margin: 8px 0;
+}
+
+.button3 {
+    background-color: #d6d6d6;
+    border-radius: 1em;
+    border: none;
+    padding: 5px 5px;
+    margin-left: 1em;
+}
+
+.button4 {
+    background-color: #d6d6d6;
+    border-radius: 1em;
+    padding: 7px 7px;
+    border: none;
+}
+
+.config {
+    width: 10%;
+    text-align: center;
+}
+
+.updateGrade {
+    background-color: #a7a2a2;
+    width: 20%;
+    position: absolute;
+    top: 20%;
+    margin-left: 10%;
+    height: 20%;
+    border-radius: 1em;
+}
+
+.field2 {
+    margin-top: 4.5em;
+    margin-left: 23%;
+    border-radius: 1em;
+    border: none;
+    padding: 12px 20px;
+    background-color: white;
+}
+
+.button2 {
+    background-color: #bdbdbd;
+    border-radius: 1em;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: none;
+    margin: 20px 0;
+    margin-left: 36%;
+}
+
+.errorBox {
+    width: 100%;
+    text-align: center;
+    height: 2em;
+    line-height: 2em;
+    background-color: #b76666;
+    margin-top: 1em;
+}
+
+.signUpField {
+    text-align: center;
+}
+
+.lol {
+    color: white;
+    text-align: center;
+}
+
+.logOut {
+    position: absolute;
+    top: 0.5em;
+    left: 29.5%;
+}
+
+.logOutButton {
+    background-color: #d6d6d6;
+    border-radius: 1em;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: none;
+    margin: 8px 0;
+}

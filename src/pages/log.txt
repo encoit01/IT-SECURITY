@@ -1,0 +1,43 @@
+16.04.2022:09:36:17: Logging attempt: with username: test and password: test
+16.04.2022:09:36:37: Logging attempt: with username: test and password: test
+16.04.2022:09:36:44: Logging attempt: with username: root and password: root
+16.04.2022:09:55:06: Logging attempt: with username: root and password: root
+16.04.2022:09:57:49: Logging attempt: with username: admin and password: test
+16.04.2022:09:57:52: Logging attempt: with username: root and password: root
+16.04.2022:09:58:48: Logging attempt: with username: admin and password: admin
+16.04.2022:09:59:11: Logging attempt: with username: root and password: root
+16.04.2022:09:59:25: Logging attempt: with username: admin and password: 123
+16.04.2022:09:59:31: Logging attempt: with username: root and password: root
+16.04.2022:10:16:06: Logging attempt: with username: root and password: root
+16.04.2022:10:16:19: Logging attempt: with username: admin and password: 123
+16.04.2022:10:16:24: Logging attempt: with username: root and password: root
+16.04.2022:10:16:49: Logging attempt: with username: root and password: root
+16.04.2022:10:19:19: Logging attempt: with username: root and password: root
+16.04.2022:10:21:08: Logging attempt: with username: enes and password: enes
+16.04.2022:10:21:29: Logging attempt: with username: tolga and password: tolga
+16.04.2022:10:21:55: Logging attempt: with username: admin and password: 12
+16.04.2022:10:22:02: Logging attempt: with username: enes and password: enes
+16.04.2022:10:23:08: Logging attempt: with username: enes and password: enes
+16.04.2022:12:24:06: Logging attempt: with username: enes and password: enes
+16.04.2022:12:24:26: Logging attempt: with username: admin and password: 123
+16.04.2022:12:24:53: Logging attempt: with username: enes and password: enes
+16.04.2022:12:27:06: Logging attempt: with username: tolga and password: tolga
+16.04.2022:12:27:48: Logging attempt: with username: enes and password: enes
+16.04.2022:13:26:07: Logging attempt: with username: ' -- " and password: 123
+16.04.2022:13:26:34: Logging attempt: with username: ' -- AND TRUE " and password: 123
+16.04.2022:13:27:16: Logging attempt: with username: root' -- and password: 123
+16.04.2022:13:27:23: Logging attempt: with username: root' -- " and password: 123
+16.04.2022:13:27:46: Logging attempt: with username: enes' -- and password: 123
+16.04.2022:13:27:52: Logging attempt: with username: enes' -- " and password: 123
+16.04.2022:13:28:01: Logging attempt: with username: ' -- " and password: 123
+16.04.2022:13:28:17: Logging attempt: with username: ' AND TRUE -- " and password: 123
+16.04.2022:13:28:56: Logging attempt: with username: ' OR TRUE -- " and password: 123
+16.04.2022:13:51:58: Logging attempt: with username: test and password: test
+16.04.2022:13:52:58: Logging attempt: with username: test and password: test
+16.04.2022:13:56:20: Logging attempt: with username: test and password: test
+16.04.2022:13:56:31: Logging attempt: with username: enes and password: enes
+16.04.2022:13:56:59: Logging attempt: with username: test and password: test
+16.04.2022:13:57:03: Logging attempt: with username: enes and password: enes
+16.04.2022:13:57:49: Logging attempt: with username: test and password: test
+16.04.2022:13:57:52: Logging attempt: with username: enes and password: enes
+16.04.2022:14:25:48: Logging attempt: with username: enes and password: enes
